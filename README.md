@@ -11,3 +11,6 @@ I am using this repo to:
 
 This is a learning-focused repository.  
 Production-ready, end-to-end projects will be maintained in separate repositories.
+
+Note: Docker and Kubernetes learning content has been consolidated into this repository.  
+All practice examples and mini-projects now include containerization and deployment exercises.
