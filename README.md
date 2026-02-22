@@ -1,5 +1,4 @@
 # MLOps Learning Lab
-# MLOps Learning Lab
 
 This repository is my structured space for learning Machine Learning and MLOps concepts.
 
